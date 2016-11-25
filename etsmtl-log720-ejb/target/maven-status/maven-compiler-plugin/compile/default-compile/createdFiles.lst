@@ -1,0 +1,5 @@
+ens\etsmtl\localejb\AbstractFacade.class
+ens\etsmtl\localejb\CustomerFacade.class
+ens\etsmtl\localejb\CustomerFacadeLocal.class
+ens\etsmtl\entity\Customer_.class
+ens\etsmtl\entity\Customer.class
